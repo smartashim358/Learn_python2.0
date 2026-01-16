@@ -1,4 +1,4 @@
-# Day 04 – Python File Handling & Git Commands (Revision)
+# Day 04 – Python File Handling (Revision)
 
 ## 📅 Topics Covered
 - Python File Handling (Read, Write, Append)
